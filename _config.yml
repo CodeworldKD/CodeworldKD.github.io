@@ -1,17 +1,17 @@
 # 站点设置
-title: '您的名字的博客'
+title: '凌睿鹏的博客'
 description: '个人技术博客'
-keyword: '您的名字, 博客, 计算机视觉, 深度学习'
-url: 'https://codeworldkd.github.io' # 改成您的GitHub用户名
+keyword: '凌睿鹏, 博客, 计算机视觉, 深度学习'
+url: 'https://codeworldkd.github.io' # 改成您的GitHub Pages地址
 
 # 个人信息
-author: '您的名字'
-nickname: '您的昵称'
+author: '凌睿鹏'
+nickname: 'KD'
 bio: '计算机视觉 | 深度学习'
 avatar: '/assets/img/profile.jpg'
 
 # 社交账号
-github_username: 凌睿鹏
+github_username: CodeworldKD
 email: 您的邮箱
 
 # 主题设置

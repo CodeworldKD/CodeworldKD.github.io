@@ -1,0 +1,36 @@
+# 站点设置
+title: '您的名字的博客'
+description: '个人技术博客'
+keyword: '您的名字, 博客, 计算机视觉, 深度学习'
+url: 'https://您的用户名.github.io' # 改成您的GitHub用户名
+
+# 个人信息
+author: '您的名字'
+nickname: '您的昵称'
+bio: '计算机视觉 | 深度学习'
+avatar: '/assets/img/profile.jpg'
+
+# 社交账号
+github_username: 您的GitHub用户名
+email: 您的邮箱
+
+# 主题设置
+theme_color: 'default'
+
+# Markdown设置
+markdown: kramdown
+kramdown:
+  input: GFM
+
+# 分页设置
+paginate: 10
+paginate_path: 'page/:num'
+
+# 评论系统设置(可选)
+comments:
+  disqus: false
+  disqus_url: ''
+
+# 构建设置
+permalink: /:year/:month/:day/:title
+exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md'] 
